@@ -1,2 +1,2 @@
 # autoPapers
-A software can automatic-generation papers
+A java software can automatic-generation papers
